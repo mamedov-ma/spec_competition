@@ -1,0 +1,13 @@
+build
+*.log
+*.pcap
+*.log
+*.json
+*.gz
+*.perf
+*.data
+*.old
+*.svg
+*.html
+.cache
+.vscode
